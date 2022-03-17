@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/billy-moore.github.io/ts-todo/static/css/main.d9a4973d.chunk.css",
+    "main.js": "/billy-moore.github.io/ts-todo/static/js/main.9f13a79e.chunk.js",
+    "main.js.map": "/billy-moore.github.io/ts-todo/static/js/main.9f13a79e.chunk.js.map",
+    "runtime-main.js": "/billy-moore.github.io/ts-todo/static/js/runtime-main.eeeb2f2b.js",
+    "runtime-main.js.map": "/billy-moore.github.io/ts-todo/static/js/runtime-main.eeeb2f2b.js.map",
+    "static/js/2.206b23ce.chunk.js": "/billy-moore.github.io/ts-todo/static/js/2.206b23ce.chunk.js",
+    "static/js/2.206b23ce.chunk.js.map": "/billy-moore.github.io/ts-todo/static/js/2.206b23ce.chunk.js.map",
+    "index.html": "/billy-moore.github.io/ts-todo/index.html",
+    "static/css/main.d9a4973d.chunk.css.map": "/billy-moore.github.io/ts-todo/static/css/main.d9a4973d.chunk.css.map",
+    "static/js/2.206b23ce.chunk.js.LICENSE.txt": "/billy-moore.github.io/ts-todo/static/js/2.206b23ce.chunk.js.LICENSE.txt",
+    "static/js/main.9f13a79e.chunk.js.LICENSE.txt": "/billy-moore.github.io/ts-todo/static/js/main.9f13a79e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeeb2f2b.js",
+    "static/js/2.206b23ce.chunk.js",
+    "static/css/main.d9a4973d.chunk.css",
+    "static/js/main.9f13a79e.chunk.js"
+  ]
+}
